@@ -4,9 +4,9 @@
 # Site settings
 title: Hospital Benítez
 description: |
-  Bienvenido al Hospital Benítez
-  donde te brindaremos una buena atención<br> 
-  totalmente gratuita 
+ ## Bienvenido al Hospital Benítez
+ ## donde te brindaremos una buena atención<br> 
+ ## totalmente gratuita 
 owner: Your Name # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: your-email@domain.com
