@@ -1,7 +1,3 @@
----
-layout: page
-title: CONTACTO
----
 
 ### REDES SOCIALES
 
@@ -20,4 +16,5 @@ Correo electrónico: carlosmaquina2402@gmail.com
 
 Número telefónico: 55-83-95-57-16
 
+![Uploading wa.link_77omdc.png…]()
 
