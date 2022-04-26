@@ -16,5 +16,6 @@ Correo electrónico: carlosmaquina2402@gmail.com
 
 Número telefónico: 55-83-95-57-16
 
-![Uploading wa.link_77omdc.png…]()
+![wa link_77omdc](https://user-images.githubusercontent.com/99769777/165399539-6543a501-663b-4398-bec8-dee3ef0745a7.png)
+
 
