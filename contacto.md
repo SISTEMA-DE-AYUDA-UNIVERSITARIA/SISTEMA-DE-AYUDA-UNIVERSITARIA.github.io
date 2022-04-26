@@ -1,3 +1,8 @@
+---
+layout: page
+title: CONTACTO
+---
+
 
 ### REDES SOCIALES
 
