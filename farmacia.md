@@ -8,7 +8,7 @@ title: FARMACIA
 | PRODUCTO | PRECIO | |
 | -------------- | -------- | ------------- |
 | Amoxicilina 500 MG | $ 44.00 MXN | ![image](https://user-images.githubusercontent.com/99769777/165691975-8456c931-390f-4981-abdf-6496ed95cf68.png) |
-| Aspirina (100 Tableta Caja Ácido acetilsalicílico 500 MG) | $ 86.00 MXN | ![image](https://user-images.githubusercontent.com/99769777/165691841-691c5f49-494a-461e-ba14-40d4e0ad233d.png) |
+| Aspirina (100 Tableta Caja Ácido acetilsalicílico 500 MG) | $ 86.00 MXN | <br><br> ![image](https://user-images.githubusercontent.com/99769777/165691841-691c5f49-494a-461e-ba14-40d4e0ad233d.png) |
 | Paracetamol 650 MG | $ 31.00 MXN | ![image](https://user-images.githubusercontent.com/99769777/165692219-f9e4d191-5f5c-4cda-a0ff-eee85124213f.png) |
 | Diclofenaco 100 MG | $ 90.00 MXN | ![image](https://user-images.githubusercontent.com/99769777/165673301-410ecd64-b0a1-4935-8df3-fe08a4109ffa.png) |
 | Vick 44 expectorante miel | $ 241.00 MXN | ![image](https://user-images.githubusercontent.com/99769777/165670797-074f7711-552a-4885-80fc-413f878a4c52.png) |
