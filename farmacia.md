@@ -5,7 +5,7 @@ title: FARMACIA
 
 ## FARMACIA DEL HOSPITAL 
 
-| NOMBRE DEL PRODUCTO  | PRECIO DEL MEDICAMENTO | IMAGEN |
+| NOMBRE DEL PRODUCTO  | PRECIO DEL MEDICAMENTO |  |
 | -------------- | -------- | ------------- |
 | Amoxicilina 500 MG | $ 44.00 MXN | ![image](https://user-images.githubusercontent.com/99769777/165691975-8456c931-390f-4981-abdf-6496ed95cf68.png) |
 | Aspirina (100 Tableta Caja Ácido acetilsalicílico 500 MG) | $ 86.00 MXN | ![image](https://user-images.githubusercontent.com/99769777/165691841-691c5f49-494a-461e-ba14-40d4e0ad233d.png) |
