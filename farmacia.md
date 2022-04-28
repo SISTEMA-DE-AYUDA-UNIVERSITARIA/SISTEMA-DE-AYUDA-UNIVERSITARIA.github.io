@@ -12,7 +12,7 @@ title: FARMACIA
 | Paracetamol 650 MG | $ 31.00 MXN | ![image](https://user-images.githubusercontent.com/99769777/165692219-f9e4d191-5f5c-4cda-a0ff-eee85124213f.png) |
 | Diclofenaco 100 MG | $ 90.00 MXN | ![image](https://user-images.githubusercontent.com/99769777/165692960-7f19281c-d00b-4b0b-9a95-7d5803710cb2.png) |
 | Vick 44 expectorante miel | $ 241.00 MXN | ![image](https://user-images.githubusercontent.com/99769777/165693044-e0d7dd47-6499-444d-8128-9d06c928a28b.png) |
-| Ibuprofeno 600 MG | $ 44.00 MXN | ![image](https://user-images.githubusercontent.com/99769777/165671092-cd08d44a-2d22-4eb1-84b9-f0a9ac5d3400.png) |
+| Ibuprofeno 600 MG | $ 44.00 MXN | ![image](https://user-images.githubusercontent.com/99769777/165695131-45badd26-5a64-47e6-9969-06397a23bbae.png) |
 | Omeprazol 20 MG | $ 29.00 MXN | ![image](https://user-images.githubusercontent.com/99769777/165693238-d0327a28-64c6-4263-bb66-b3158d6d9535.png) |
 | Tempra Jarabe Infantil 120 ML | $ 137.00 MXN | ![image](https://user-images.githubusercontent.com/99769777/165693371-a3e1e2f8-2d7a-4cdd-83ec-7e110af8ebf4.png) |
 | Prudence Extra Time Condones Retardantes (3 Piezas Blíster) | $ 52.00 MXN | ![image](https://user-images.githubusercontent.com/99769777/165693472-3bc70bba-ace8-4276-82f8-c682f79b1fec.png) |
