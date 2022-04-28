@@ -5,7 +5,7 @@ title: DIRECTORIO
 ## DOCTORES (AS) Y ENFERMER@S
 
 | DOCTOR | OCUPACIÓN | CONTACTO |  |
-| -------------- | -------- | ------------- | --------- |
+| ------------------------------ | -----------------| ----------------------- | ----------------------- |
 | Carlos Alberto Delgado Benítez | Doctor | Número Telefónico: 55-83-95-57-16<br>     Correo: carlosdebe@gmail.com | ![image](https://user-images.githubusercontent.com/99769777/165681596-cd7b1c14-b94a-40de-ad9f-f4138ed4b214.png) |
 | Cristiano Ronaldo | Doctor | Número Telefónico: 56-42-87-64-33<br>     Correo: cr7@gmail.com | ![image](https://user-images.githubusercontent.com/99769777/165681660-7c4fa890-9930-451a-b257-e209d1130901.png) |
 | Karla Gabriela Hernandez Benítez | Doctora | Número Telefónico: 55-82-10-19-93<br>     Correo: kghbenitez@hotmail.com | ![image](https://user-images.githubusercontent.com/99769777/165681707-21044c22-da54-4dcf-b93e-8437e5849ece.png) |
