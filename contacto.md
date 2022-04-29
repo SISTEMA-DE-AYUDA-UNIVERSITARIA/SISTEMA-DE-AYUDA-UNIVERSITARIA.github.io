@@ -20,6 +20,8 @@ Correo electrónico: ailtongama238@gmail.com
 
 Número telefónico: 56-30-53-11-63
 
-https://wa.link/p0j6po
+Link WhatsApp
+![wa link_p0j6po](https://user-images.githubusercontent.com/99769638/165884954-655da87e-0c82-4f45-8b73-e4368dcac2ac.png)
+
 
 
