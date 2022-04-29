@@ -6,21 +6,20 @@ title: CONTACTO
 
 ### REDES SOCIALES
 
-INSTAGRAM PERSONAL:   [ _@xcaldb24x_ ](https://www.instagram.com/_xcaldb24x_/). 
+INSTAGRAM PERSONAL:   [ _@ailtongama238 ](https://instagram.com/ailtongama238?igshid=YmMyMTA2M2Y=). 
 
-FACEBOOK:  [Carlos Delgado Benítez](https://www.facebook.com/carlos.delgadobenitez.9)
+FACEBOOK:  [Ailton García](https://www.facebook.com/ailton.ga.54)
 
-WHATSAPP:  [55-83-95-57-16]
+WHATSAPP:  [56-30-53-11-63]
 
-TWITTER:   [@Carlos_DB24](https://twitter.com/Carlos_DB24)
 
 
 #### SOPORTE O ACLARACIONES
 
-Correo electrónico: carlosmaquina2402@gmail.com
+Correo electrónico: ailtongama238@gmail.com
 
-Número telefónico: 55-83-95-57-16
+Número telefónico: 56-30-53-11-63
 
-![wa link_77omdc](https://user-images.githubusercontent.com/99769777/165399539-6543a501-663b-4398-bec8-dee3ef0745a7.png)
+https://wa.link/p0j6po
 
 
