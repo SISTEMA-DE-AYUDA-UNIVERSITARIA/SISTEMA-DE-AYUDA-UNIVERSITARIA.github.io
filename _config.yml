@@ -2,25 +2,25 @@
 #
 
 # Site settings
-title: Hospital Benítez
+title: Hospittal García
 description: |
-  Bienvenido al Hospital Benítez
-  donde te brindaremos una buena atención<br> 
-  totalmente gratuita 
-owner: Delgado Benítez Carlos Alberto # or company name
+  Bienvenido al Hospital García
+  Donde nos encargamos de brindarte la mejor atencion para tu salud y bienestar<br>
+  Estamos catalogados como uno de los mejores hospitales de la zona
+owner: García Alonso Ailton Gamaliel # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/Carlos_DB24
+  twitter:
   #github: 
   #linkedin-square: 
   facebook-official: https://facebook.com/carlos.delgadobenitez.9
   #google-plus-square: 
-  email: delgadobenitezcarlosd@gmail.com
+  email: ailtongama238@gmail.com
   #flickr:
-  instagram: https://instagram.com/_xcaldb24x_/
+  instagram: 
   #youtube-square:
   #spotify:
   #stack-overflow:
