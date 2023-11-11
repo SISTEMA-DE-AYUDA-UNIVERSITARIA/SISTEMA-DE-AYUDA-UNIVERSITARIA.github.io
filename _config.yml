@@ -2,13 +2,13 @@
 #
 
 # Site settings
-title: Hospital García
+title: SAU
 description: |
-  Bienvenido al Hospital García
-  Donde nos encargamos de brindarte la mejor atencion para tu salud y bienestar<br>
-  Estamos catalogados como uno de los mejores hospitales de la zona
-owner: García Alonso Ailton Gamaliel # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
+  Bienvenido al Sistema de Ayuda Universitaria (SAU)
+  Donde nos encargamos de escuchar las problematicas de los estudiantes y darles seguimiento para llegar a una solucion<br>
+  Todo estuddiante debe alzarla voz no estas sola/o
+owner: Sistema de Ayuda Universitaria # or company name
+first_published: 2023 # if migrating another site, the year of your first publish
 email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
