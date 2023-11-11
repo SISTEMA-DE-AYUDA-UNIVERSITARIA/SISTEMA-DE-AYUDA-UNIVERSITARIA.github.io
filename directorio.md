@@ -4,7 +4,7 @@ title: DIRECTORIO
 ---
 ## MIEMBROS
 
-| INTEGRANTES O<br> ENFERMER@ | OCUPACIÓN | CONTACTO PERSONAL  |  |
+| INTEGRANTES | OCUPACIÓN | CONTACTO PERSONAL  |  |
 | ------------------------------ | ---------------------| ----------------------- | ----------------------- |
 | Brenda Herrera Fuentes | Alumna | Número Telefónico: 55-14-83-61-99<br>     Correo: brenher@gmail.com | 
 | Ailton Gamaliel Garcia Alonso | Alumno | Número Telefónico: 56-30-53-11-63<br>     Correo: ailtonga@gmail.com | 
