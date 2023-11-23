@@ -5,7 +5,7 @@ title: CONTACTO
 
 #### SOPORTE O ACLARACIONES
 
-Correo electrónico: uaemex.sau@gmail.com
+Correo electrónico: sau_ayuda@uaemex.mx
 
 Número telefónico: 56-30-53-11-63
 
