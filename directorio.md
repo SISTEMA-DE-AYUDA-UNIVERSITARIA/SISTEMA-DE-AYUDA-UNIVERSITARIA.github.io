@@ -12,3 +12,6 @@ title: DIRECTORIO
 | Axel Abraham Camilo Balbuena | Estudiante | Número Telefónico: 56-18-55-10-08<br>    Correo: axcami@gmail.com |
 | Kevin de Jesus Casillas Moysen | Estudiante | Número Telefónico: 55-68-01-55-41<br>    Correo: kevmoy@hotmail.com | 
 | Eric Montellano Hernandez | Estudiante | Número Telefónico: 71-31-09-24-87<br>     Correo: ericmon@gmail.com | 
+| Rocio Saucedo Gonzalez | Mestra | Número Telefónico: 55-38-19-45-24<br>     Correo: rociosaucedo@uaemex.mx | 
+| Angelica Perez Ochoa | Psicologa | Número Telefónico: 56-58-14-32-07<br>     Correo: perezange@gmail.com | 
+| Jessica Hernandez Morales | Psicologa | Número Telefónico: 56-70-94-36-82<br>     Correo: jessmoral@gmail.com | 
